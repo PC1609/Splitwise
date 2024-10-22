@@ -4,7 +4,8 @@
 <p>
   Enables expense splitting (equal and custom percentage splitting), balance tracking, along with maintaining user specific balance sheets 
 </p>
-<p><img width="496" alt="Screenshot 2024-10-22 at 11 21 26" src="https://github.com/user-attachments/assets/bdd67a5b-b33e-4b6e-a593-46b00c5fe3dd"></p>
+<p>
+  <img width="482" alt="Screenshot 2024-10-22 at 11 26 50" src="https://github.com/user-attachments/assets/f1e49b31-f6e3-4c58-914d-6fa906e56847">
 
-<p><img width="496" alt="Screenshot 2024-10-22 at 11 24 58" src="https://github.com/user-attachments/assets/c7c60948-e025-4ef4-b85b-4b5b0c5bea69"></p>
+</p>
 
